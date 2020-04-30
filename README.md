@@ -33,6 +33,8 @@ The wireframe we developed for this project can be viewed on [Figma](https://www
 We would like to refactor our conditionals with fetch to use try/catch blocks (instead of checking the ok status and basing actions off of that). This will also require a refactoring of our tests, but would allow us to increase the span and depth of our testing, especially when mocking fetch calls.
 
 #### Setup
-Fork and clone down this repo.
-Once you have cloned the repo, change into the directory.
-To view the application, run npm and open the provided localhost url in the browser.
+- Fork and clone down this repo
+- Once you have cloned the repo, change into the directory.
+- In terminal, `npm install`
+- To view the application, `run npm` and open the provided localhost url in the browser.
+- The credentials for user login `username: lucy@turing.io, password: password1`
